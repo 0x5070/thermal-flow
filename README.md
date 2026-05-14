@@ -3,7 +3,7 @@ thermal-flow
 Generic ESC/POS thermal printer driver specialized for 80mm hardware.
 Overview
 
-This project provides a streamlined workflow to automate the printing process on ESC/POS thermal printers via network interface. It is designed to iterate through local directories and output images recursively using Shell scripting.
+This project provides a streamlined workflow to automate the printing process on ESC/POS thermal printers via network interface. It is designed to iterate through local directories and output images recursively using a combination of Python and Shell scripting.
 
 --- Usage: ---
 
@@ -11,7 +11,7 @@ To execute the automated printing sequence:
 
     Place all target images within a specific directory.
 
-    Ensure folder-print.sh, create-file-to-print.sh, and dibujo_binario.bin are in the same workspace.
+    Ensure folder-print.sh, create-file-to-print.py, and dibujo_binario.bin are in the same workspace.
 
     Run the shell script:
 
