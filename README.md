@@ -57,5 +57,10 @@ Note: the default example uses `192.168.2.160`.
 
 ---
 
-## License
-MIT — see [LICENSE](LICENSE).
+## Licencia / License
+
+**GNU General Public License v3.0 (GPL-3.0).**
+
+Este proyecto se distribuye bajo los términos de la licencia GNU GPL-3.0. Consulta el archivo [LICENSE](LICENSE) para leer el texto completo.
+
+This project is distributed under the terms of the GNU GPL-3.0. See the [LICENSE](LICENSE) file for the complete license text.
